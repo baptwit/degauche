@@ -1,0 +1,11 @@
+/*
+Theme Name: degauche
+Theme URI: https://github.com/baptwit/degauche
+Description: Child Theme for twentyeleven
+Author: Baptiste Caquot
+Author URI: http://www.baptistecaquot.fr/blog/
+Template: twentyeleven
+Version: 0.1
+*/
+ 
+@import url("../twentyeleven/style.css");
